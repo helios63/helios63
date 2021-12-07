@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Maxime</h1>
+<h1 align="center">Hello 👋, I'm Maxime</h1>
 <h3 align="center">A passionate frontend developer from France, based in Barcelona.</h3>
 
 - 🌱 I’m currently learning **React**
