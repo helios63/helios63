@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [mondetmaxi.me](mondetmaxi.me)
+- 👨‍💻 All of my projects are available at [<a href="https://mondetmaxi.me" target="blank">mondetmaxi.me</a>]
 
 - 📫 How to reach me **hello@mondetmaxi.me**
 
